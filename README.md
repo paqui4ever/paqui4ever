@@ -1,4 +1,4 @@
-👋 Hi, I'm Silvano Picard
+# 👋 Hi, I'm Silvano Picard
 
 I am a Computer Science student at the University of Buenos Aires (UBA), currently in my second year of studies.
 My academic and personal interests lie in understanding computation from both a theoretical and applied perspective, particularly in exploring how formal reasoning and machine learning can address real-world problems.
