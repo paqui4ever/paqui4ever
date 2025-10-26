@@ -17,6 +17,10 @@ Programming Languages: Haskell, Python, C, intermediate x86 assembly, and basic 
 
 * SIMD-optimized K-means implementation, focused on improving vectorized performance, to be later applied for portfolio optimization based on risk metrics such as Value at Risk (VaR) and Conditional Value at Risk (CVaR).
 
+## Contact
+
+Personal email: s.rene.picard@gmail.com
+Academic email: spicard@dc.uba.ar
 <!--
 **paqui4ever/paqui4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
