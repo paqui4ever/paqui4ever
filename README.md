@@ -1,17 +1,15 @@
 # 👋 Hi, I'm Silvano Picard
 
 I am a Computer Science student at the University of Buenos Aires (UBA), currently in my second year of studies.
-My academic and personal interests lie in understanding computation from both a theoretical and applied perspective, particularly in exploring how formal reasoning and machine learning can address real-world problems.
+My academic and personal interests lie in understanding computation from an applied perspective, particularly in exploring how machine learning can address real-world problems.
 
 ## Research and Academic Interests
 
 Machine Learning and Artificial Intelligence – applying computational models to practical domains and analyzing their theoretical underpinnings.
 
-Theoretical Computer Science – with a focus on type theory, formal systems, and interactive theorem provers.
-
 ## Technical Background
 
-Programming Languages: Haskell, Python, C, intermediate x86 assembly, and basic Agda.
+Programming Languages: Python, C
 
 ## Upcoming Projects
 
