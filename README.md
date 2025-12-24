@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Silvano Picard
 
-I am a Computer Science student at the University of Buenos Aires (UBA), currently in my second year of studies.
+I am a Computer Science student at the University of Buenos Aires (UBA), currently in my third year of studies.
 My academic and personal interests lie in understanding computation from an applied perspective, particularly in exploring how machine learning can address real-world problems.
-
-## Research and Academic Interests
-
-Machine Learning and Artificial Intelligence – applying computational models to practical domains and analyzing their theoretical underpinnings.
 
 ## Technical Background
 
