@@ -7,6 +7,10 @@ My academic and personal interests lie in understanding computation from an appl
 
 Programming Languages: Python, C
 
+## Current Project
+
+* I am developing an end-to-end deep learning system for the RIVA Cervical Cytology Challenge (ISBI 2026), focused on nucleus detection and fine-grained cell classification in high-resolution Pap smear images. Stay tuned!
+
 ## Upcoming Projects
 
 * SIMD-optimized K-means implementation, focused on improving vectorized performance, to be later applied for portfolio optimization based on risk metrics such as Value at Risk (VaR) and Conditional Value at Risk (CVaR).
