@@ -3,9 +3,9 @@
 I am a Computer Science student at the University of Buenos Aires (UBA), currently in my third year of studies.
 My academic and personal interests lie in understanding computation from an applied perspective, particularly in exploring how machine learning can address real-world problems.
 
-## Technical Background
+## Technical Skills
 
-Programming Languages: Python, C
+* Python, C, LaTeX, Pytorch
 
 ## Current Project
 
