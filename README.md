@@ -9,7 +9,8 @@ My academic and personal interests lie in understanding computation from an appl
 
 ## Current Project
 
-* I am developing an end-to-end deep learning system for the RIVA Cervical Cytology Challenge (ISBI 2026), focused on nucleus detection and fine-grained cell classification in high-resolution Pap smear images. Stay tuned!
+* I am planning on incorporating an mechanistic interpretability analysis to the RIVA Challenge SAM3 + Faster-RCNN model using Sparse Autoencoders
+* I am also planning on implementing KV Caching, GQA, MLA and Sparse Attention to the Bumblebee repository!
 
 ## Upcoming Projects
 
