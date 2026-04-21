@@ -7,11 +7,6 @@ My academic and personal interests lie in understanding computation from an appl
 
 * Python, C, LaTeX, Pytorch
 
-## Current Project
-
-* I am planning on incorporating an mechanistic interpretability analysis to the RIVA Challenge SAM3 + Faster-RCNN model using Sparse Autoencoders
-* I am also planning on implementing KV Caching, GQA, MLA and Sparse Attention to the Bumblebee repository!
-
 ## Upcoming Projects
 
 * SIMD-optimized K-means implementation, focused on improving vectorized performance, to be later applied for portfolio optimization based on risk metrics such as Value at Risk (VaR) and Conditional Value at Risk (CVaR).
