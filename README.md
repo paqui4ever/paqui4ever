@@ -16,6 +16,8 @@ My academic and personal interests lie in understanding computation from an appl
 Personal email: s.rene.picard@gmail.com
 
 Academic email: spicard@dc.uba.ar
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
 <!--
 **paqui4ever/paqui4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
